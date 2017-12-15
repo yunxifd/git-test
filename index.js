@@ -1,1 +1,1 @@
-export const version = "v0.0.2";
+module.exports = "v0.1.0";
