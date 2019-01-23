@@ -1,0 +1,3 @@
+[submodule "modules/test2"]
+	path = modules/test2
+	url = https://github.com/yunxifd/git-test-2.git
